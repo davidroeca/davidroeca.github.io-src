@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/davidroeca/davidroeca.github.io
+[submodule "themes/MinimalXY"]
+	path = themes/MinimalXY
+	url = https://github.com/petrnohejl/MinimalXY
