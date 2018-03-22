@@ -1,6 +1,7 @@
-# virtualenv
-
+# Python
 venv/
+__pycache__/
+
 
 # vim
 *.swp
